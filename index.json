@@ -12,6 +12,14 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
+        },
+        {
+            "name": "Agency First Names",
+            "path": "agency-first-names.txt"
+        },
+        {
+            "name": "Agency Last Names",
+            "path": "agency-last-names.txt"
         }
     ]
 }
