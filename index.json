@@ -3,7 +3,7 @@
     "lists": [
         {
             "name": "First Names",
-            "url": "first-names.txt"
+            "path": "first-names.txt"
         },
         {
             "name": "Last Names",
