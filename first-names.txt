@@ -98,7 +98,6 @@ Johnny
 Earl
 Jimmy
 Antonio
-
 Danny
 Bryan
 Tony
@@ -299,7 +298,7 @@ Terrence
 Enrique
 Freddie
 Wade
-ary
+Mary
 Patricia
 Linda
 Barbara
